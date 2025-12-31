@@ -11,3 +11,7 @@ wheels/
 
 # Environment variable files
 .env
+
+#Vector folder
+Vector/
+
